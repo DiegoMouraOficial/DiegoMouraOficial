@@ -1,9 +1,9 @@
 <h1 align="center">Olá 😜, sou o Diego Moura dos Santos </h1>
 
-<h3 align="center"> Learn and Share (Aprender e compartilhar)</h3>
-
 <p align="center"> 🎓Estudante de programação focado no desenvolvimento java back-end. </br>
 Atualmente cursando o 2° semestre de Análise e desenvolvimento de sistemas.</p></br>
+
+## 🤓 Learn and Share (Aprender e compartilhar)
 
 - 🔭 Faço parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/)
 - 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](beacons.ai/diegomouraoficial) 
