@@ -37,10 +37,19 @@ Atualmente cursando o 2° semestre de Análise e desenvolvimento de sistemas.</p
 </br>
 
 <p align="center">
-  <a href="https://github.com/ProgrammerCodeOficial">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=programmercodeoficial&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/> </br>
-  </br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmercodeoficial&layout=compact&langs_count=7&theme=solarized-dark"/>
+  <table align="center">
+    <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=programmercodeoficial&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />           </td>
+    </tr>   
+  </table>
+</p></br>
+      
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmercodeoficial&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+  </tr>   
+</table>
 </p>
 
 
