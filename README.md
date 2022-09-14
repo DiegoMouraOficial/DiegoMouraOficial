@@ -6,7 +6,7 @@ Atualmente cursando o 2° semestre de Análise e desenvolvimento de sistemas.</p
 ## 🤓 Learn and Share (Aprender e compartilhar)
 
 - 🔭 Faço parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/)
-- 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](beacons.ai/diegomouraoficial) 
+- 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](https://beacons.ai/diegomouraoficial)
 </br>
 
 ## ⚡Tecnologias
