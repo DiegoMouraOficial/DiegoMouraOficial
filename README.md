@@ -32,12 +32,17 @@ Atualmente cursando o 2° semestre de Análise e desenvolvimento de sistemas.</p
 </p></br>
 
 ## 📈 Métricas do Github:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmercodeoficial&label=Profile%20views&color=0e75b6&style=flat" alt="programmercodeoficial" /> </p>
+</br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=programmercodeoficial&label=Profile%20views&color=0e75b6&style=flat" alt="programmercodeoficial" /> </p>
 </br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmercodeoficial&show_icons=true&locale=en&layout=compact" alt="programmercodeoficial" /></p></br>
+<p align="center">
+  <a href="https://github.com/ProgrammerCodeOficial">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=programmercodeoficial&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/> </br>
+  </br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmercodeoficial&layout=compact&langs_count=7&theme=solarized-dark"/>
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmercodeoficial&show_icons=true&locale=en" alt="programmercodeoficial" /></p>
 
 
 
