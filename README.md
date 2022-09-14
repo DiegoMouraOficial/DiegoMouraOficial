@@ -1,13 +1,16 @@
-<h1 align="center">Olá 😜, sou o Diego Moura dos Santos </h1>
+<h1 align="center">Olá 😜, sou o Diego Moura dos Santos</h1>
 
-<p align="center"> 🎓Estudante de programação focado no desenvolvimento java back-end. </br>
-Atualmente cursando o 2° semestre de Análise e desenvolvimento de sistemas.</p></br>
+<p align="center"> Desenvolvedor <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> Java Back-End</p></br>
 
 ## 🤓 Learn and Share (Aprender e compartilhar)
 
-- 🔭 Faço parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/)
-- 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](https://beacons.ai/diegomouraoficial)
-</br>
+- 📚 Estudante de programação com foco no desenvolvimento java back-end.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistema - 2° Semestre.
+- 🤝 Gosto de aprender e compartilhar o cohecimento.
+- 💪 Curioso e movido a desafios.
+- 🔭 Faço parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/).
+- 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](https://beacons.ai/diegomouraoficial).</br>
+
 
 ## ⚡Tecnologias
 
@@ -31,7 +34,7 @@ Atualmente cursando o 2° semestre de Análise e desenvolvimento de sistemas.</p
 <a href="https://discord.gg/Diegomoura#9651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Diegomoura#9651" height="20" width="30" /></a>
 </p></br>
 
-## 📈 Métricas do Github:
+## 📈 Métricas no :octocat: Github:
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=programmercodeoficial&label=Profile%20views&color=0e75b6&style=flat" alt="programmercodeoficial" /> </p>
 </br>
