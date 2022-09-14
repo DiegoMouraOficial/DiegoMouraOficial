@@ -11,7 +11,7 @@
 - 🔭 Faço parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/) da [Gama Academy](https://gama.academy/) em parceria com a [IBM](https://www.ibm.com/br-pt).
 - 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](https://beacons.ai/diegomouraoficial).</br>
 
-
+</br>
 ## ⚡Tecnologias
 
 <details>
