@@ -6,7 +6,7 @@
 
 - 📚 Estudante de programação com foco no desenvolvimento java back-end.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistema - 2° Semestre.
-- 😜 Formado em técnico de vestuário com 18 anos de experiência de vendas pelo e-commerce.
+- 😜 Formado em técnico de vestuário com 18 anos de experiência em vendas pelo e-commerce.
 - 🤝 Gosto de aprender e compartilhar conhecimento.
 - 💪 Curioso e movido a desafios.
 - 🔭 Fiz parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/) da [Gama Academy](https://gama.academy/) em parceria com a [IBM](https://www.ibm.com/br-pt).
