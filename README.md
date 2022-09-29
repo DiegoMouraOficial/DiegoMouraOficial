@@ -30,11 +30,11 @@
 
 ## 🗺️ Redes Sociais
 <p align="left">
-<a href="https://twitter.com/programmercode4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programmercode4" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/diegomouradossantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegomouradossantos" height="20" width="30" /></a>
-<a href="https://www.instagram.com/diegomouraoficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diegomouraoficial/" height="20" width="30" /></a>
-<a href="https://www.youtube.com/c/programmercode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/programmercode" height="20" width="30" /></a>
-<a href="https://discord.gg/Diegomoura#9651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Diegomoura#9651" height="20" width="30" /></a>
+<a href="https://twitter.com/programmercode4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programmercode4" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/diegomouradossantos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegomouradossantos" height="20" width="30" /></a>
+<a href="https://www.instagram.com/diegomouraoficial/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diegomouraoficial/" height="20" width="30" /></a>
+<a href="https://www.youtube.com/c/programmercode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/programmercode" height="20" width="30" /></a>
+<a href="https://discord.gg/Diegomoura#9651" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Diegomoura#9651" height="20" width="30" /></a>
 </p></br>
 
 ## 📈 Métricas no :octocat: Github:
