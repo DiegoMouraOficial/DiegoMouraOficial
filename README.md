@@ -49,14 +49,14 @@
     </tr>   
   </table>
 </p></br>
-      
-<p align="center">
-  <table align="center">
-    <tr>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmercodeoficial&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-  </tr>   
-</table>
-</p>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=programmercodeoficial&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&icon_color=5194f0&bg_color=0d1117" alt="Programmer Code Language stats" />
+</a>
+</div>
+
 
 </br>
 
