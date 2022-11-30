@@ -2,14 +2,14 @@
 
 <p align="center"> Desenvolvedor <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> Java Back-End</p></br>
 
-## 🤓 Learn and Share (Aprender e compartilhar)
+## 🤓 Learn and Share.
 
-- 📚 Estudante de programação com foco no desenvolvimento java back-end.
+- 📚 Associate intern at IBM | Back-End Developer
 - 🎓 Estudante de Análise e Desenvolvimento de Sistema - 2° Semestre.
 - 😜 Formado em técnico de vestuário com 18 anos de experiência em vendas pelo e-commerce.
 - 🔐 Entusiasta pela Blockchain e Games NFT no formato Play to earn
 - 🤝 Gosto de aprender e compartilhar conhecimento.
-- 💪 Curioso e movido a desafios.
+- 💪 Curioso e movido por desafios.
 - 🔭 Fiz parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/) da [Gama Academy](https://gama.academy/) em parceria com a [IBM](https://www.ibm.com/br-pt).
 - 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](https://beacons.ai/diegomouraoficial).
 
