@@ -1,10 +1,10 @@
 <h1 align="center">Olá 😜, sou o Diego Moura dos Santos</h1>
 
-<p align="center"> Desenvolvedor <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> Java Back-End</p></br>
+<p align="center"> Back-End<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> Developer</p></br>
 
 ## 🤓 Learn and Share.
 
-- 📚 Associate intern at IBM | Back-End Developer
+- 📚 Associate intern at IBM
 - 🎓 Estudante de Análise e Desenvolvimento de Sistema - 2° Semestre.
 - 😜 Formado em técnico de vestuário com 18 anos de experiência em vendas pelo e-commerce.
 - 🔐 Entusiasta pela Blockchain e Games NFT no formato Play to earn
