@@ -4,7 +4,7 @@
 
 ## 🤓 Learning and Sharing.
 
-- 📚 Associate intern at IBM
+- 📚 Early associate at IBM
 - 🎓 Estudante de Análise e Desenvolvimento de Sistema - 2° Semestre.
 - 😜 Formado em técnico de vestuário com 18 anos de experiência em vendas pelo e-commerce.
 - 🔐 Entusiasta pela Blockchain e Games NFT no formato Play to earn
