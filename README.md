@@ -11,6 +11,7 @@
 - 🤝 Gosto de aprender e compartilhar conhecimento.
 - 💪 Curioso e movido por desafios.
 - 🔭 Fiz parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/) da [Gama Academy](https://gama.academy/) em parceria com a [IBM](https://www.ibm.com/br-pt).
+
 - 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](https://beacons.ai/diegomouraoficial).
 
 </br>
