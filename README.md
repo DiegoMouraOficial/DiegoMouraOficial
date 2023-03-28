@@ -5,9 +5,8 @@
 ## 🤓 Learning and Sharing.
 
 - 📚 Early associate at IBM
-- 🎓 Estudante de Análise e Desenvolvimento de Sistema - 2° Semestre.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistema - 3° Semestre.
 - 😜 Formado em técnico de vestuário com 18 anos de experiência em vendas pelo e-commerce.
-- 🔐 Entusiasta pela Blockchain e Games NFT no formato Play to earn
 - 🤝 Gosto de aprender e compartilhar conhecimento.
 - 💪 Curioso e movido por desafios.
 - 🔭 Fiz parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/) da [Gama Academy](https://gama.academy/) em parceria com a [IBM](https://www.ibm.com/br-pt).
