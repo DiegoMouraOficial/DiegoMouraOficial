@@ -10,13 +10,10 @@
 
 - 😜 Vendedor - Próprio Negócio - (05/2004 - 04/2022) - [Camisetas de Marca](https://www.camisetasdemarca.com.br/)
 
-## 🤓 Formação acadêmica.
+### 🤓 Formação acadêmica.
 
 - 🎓 Análise e Desenvolvimento de Sistema - 3° Semestre - [Anhanguera Educacional](https://textil.sp.senai.br/)
-- 😜 Formado em técnico de vestuário com 18 anos de experiência em vendas pelo e-commerce.
-- 💪 Curioso e movido por desafios.
-
-
+- 😜 Formado em técnico de vestuário - 
 - 🔭 Fiz parte do treinamento [If black, then code](https://ifblackthencode.corporate.gama.academy/) da [Gama Academy](https://gama.academy/) em parceria com a [IBM](https://www.ibm.com/br-pt).
 
 - 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](https://beacons.ai/diegomouraoficial).
