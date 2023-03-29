@@ -4,11 +4,11 @@
 
 ## Experiências de Trabalho 💻 
 
-💻 Application Developer (2022 - Atual) [IBM, São Paulo, BR](https://www.ibm.com/br-pt)
+- 💻 Application Developer - (2022 - Atual) - [IBM, São Paulo, BR](https://www.ibm.com/br-pt)
 
-🚗 Motorista de Aplicativo - (06/2022 - 12/2022) 
+- 🚗 Motorista de Aplicativo - (06/2022 - 12/2022) 
 
-😜 Vendedor - Próprio Negócio (05/2004 - 04/2022)
+- 😜 Vendedor - Próprio Negócio - (05/2004 - 04/2022)
 
 ## 🤓 Learning and Sharing.
 
