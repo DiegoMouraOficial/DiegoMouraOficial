@@ -20,7 +20,7 @@
 
 </br>
 
-## Stacks de Tecnologias ⚡
+## Stacks de Tecnologias 🔋⚡
 
 <details>
   <summary> 👨🏿‍💻 Clique e veja as linguagens que utilizo:</summary></br>
