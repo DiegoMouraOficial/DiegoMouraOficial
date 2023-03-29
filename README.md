@@ -8,7 +8,7 @@
 
 - 🚗 Motorista de Aplicativo - (06/2022 - 12/2022) 
 
-- 😜 Vendedor - Próprio Negócio - (05/2004 - 04/2022) - [Camisetas de Marca](https://www.camisetasdemarca.com.br/)
+- 😜 Vendedor (e-commerce) - Próprio Negócio - (05/2004 - 04/2022) - [Camisetas de Marca](https://www.camisetasdemarca.com.br/)
 
 ### 🤓 Formação acadêmica.
 
