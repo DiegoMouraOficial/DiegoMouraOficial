@@ -20,7 +20,7 @@
 
 </br>
 
-## ⚡Tecnologias
+## Tecnologias ⚡
 
 <details>
   <summary> 🛠️ Algumas linguagens que estudo:</summary></br>
