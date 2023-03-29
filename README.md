@@ -18,12 +18,6 @@
 - 🔭 Fiz parte do treinamento - (07/2022 - 09/2022) [If black, then code](https://ifblackthencode.corporate.gama.academy/) da [Gama Academy](https://gama.academy/) em parceria com a [IBM](https://www.ibm.com/br-pt).
 - 😜 Formado em técnico de vestuário - (2018 - 2020) 
 
-
-
-
-
-- 📄 Saiba mais sobre mim em [beacons.ai/diegomouraoficial](https://beacons.ai/diegomouraoficial).
-
 </br>
 
 ## ⚡Tecnologias
