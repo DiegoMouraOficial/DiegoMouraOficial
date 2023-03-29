@@ -2,6 +2,14 @@
 
 <p align="center"> Full Stack <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> Developer</p></br>
 
+## Experiências de Trabalho 💻 
+
+💻 Application Developer (2022 - Atual) [IBM, São Paulo, BR](https://www.ibm.com/br-pt)
+
+🚗 Motorista de Aplicativo - (06/2022 - 12/2022) 
+
+😜 Vendedor - Próprio Negócio (05/2004 - 04/2022)
+
 ## 🤓 Learning and Sharing.
 
 - 📚 Early associate at IBM
