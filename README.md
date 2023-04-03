@@ -71,7 +71,7 @@
 
 </br>
 
-<p align="center"> " Qualquer pessoa de sucesso sabe que é uma peça importante, mas que não conseguirá nada sozinha". "</p>
+<p align="center"> " Qualquer pessoa de sucesso sabe que é uma peça importante, mas que não conseguirá nada sozinha."</p>
 
 
 
