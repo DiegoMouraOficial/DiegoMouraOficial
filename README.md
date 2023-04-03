@@ -50,13 +50,13 @@
 
 ## 📈 Métricas no :octocat: Github:
 </br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=programmercodeoficial&label=Profile%20views&color=0e75b6&style=flat" alt="programmercodeoficial" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diegomouraoficial&label=Profile%20views&color=0e75b6&style=flat" alt="diegomouraoficial" /> </p>
 </br>
 
 <p align="center">
   <table align="center">
     <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=programmercodeoficial&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />           </td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=diegomouraoficial&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />           </td>
     </tr>   
   </table>
 </p></br>
@@ -64,7 +64,7 @@
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=programmercodeoficial&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&icon_color=5194f0&bg_color=0d1117" alt="Programmer Code Language stats" />
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=diegomouraoficial&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&icon_color=5194f0&bg_color=0d1117" alt="Diego Moura Oficial Language stats" />
 </a>
 </div>
 
