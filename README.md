@@ -8,7 +8,7 @@
 
 - 🚗 Motorista Autônomo de Aplicativo - (06/2022 - 12/2022) - [Uber](https://www.uber.com/br/pt-br/) & [99 Pop](https://99app.com/motorista/)
 
-- 😜 Vendedor (e-commerce) - Próprio Negócio - (05/2004 - 04/2022) - [Camisetas de Marca](https://www.camisetasdemarca.com.br/)
+- 😜 Vendedor (e-commerce) - Próprio Negócio - (05/2004 - 04/2022) - [Camisetas de Marca]
 
 </br>
 
