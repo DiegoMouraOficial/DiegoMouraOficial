@@ -4,7 +4,7 @@
 
 ## Experiências de Trabalho 💻 
 
-- 💻 Application Developer - (2022 - Atual) | [IBM, São Paulo, BR](https://www.ibm.com/br-pt)
+- 💻 Application Developer - (12/2022 - Atual) | [IBM, São Paulo, BR](https://www.ibm.com/br-pt)
 
 - 🚗 Motorista Autônomo de Aplicativo - (06/2022 - 12/2022) - 6 meses | [Uber](https://www.uber.com/br/pt-br/) & [99 Pop](https://99app.com/motorista/)
 
