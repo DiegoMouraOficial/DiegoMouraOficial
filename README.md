@@ -4,11 +4,11 @@
 
 ## Experiências de Trabalho 💻 
 
-- 💻 Application Developer - (2022 - Atual) - [IBM, São Paulo, BR](https://www.ibm.com/br-pt)
+- 💻 Application Developer - (2022 - Atual) | [IBM, São Paulo, BR](https://www.ibm.com/br-pt)
 
-- 🚗 Motorista Autônomo de Aplicativo - (06/2022 - 12/2022) | 6 meses - [Uber](https://www.uber.com/br/pt-br/) & [99 Pop](https://99app.com/motorista/)
+- 🚗 Motorista Autônomo de Aplicativo - (06/2022 - 12/2022) - 6 meses | [Uber](https://www.uber.com/br/pt-br/) & [99 Pop](https://99app.com/motorista/)
 
-- 😜 Vendedor (e-commerce) - Próprio Negócio - (05/2004 - 04/2022) | 18 anos - Camisetas de Marca
+- 😜 Vendedor (e-commerce) - Próprio Negócio - (05/2004 - 04/2022) - 18 anos | Camisetas de Marca
 
 </br>
 
