@@ -61,12 +61,7 @@
   </table>
 </p></br>
 
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=diegomouraoficial&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&icon_color=5194f0&bg_color=0d1117" alt="Diego Moura Oficial Language stats" />
-</a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomouraoficial&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </br>
