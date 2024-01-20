@@ -14,8 +14,8 @@
 
 ## Formação acadêmica 🤓
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistema (2021 - 2023)- [Anhanguera Educacional](https://textil.sp.senai.br/)
-- 🎓 Formado em técnico de vestuário - (2022 - 2023) - [Senai](https://textil.sp.senai.br/)
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas (2021 - 2023)- [Anhanguera Educacional](https://textil.sp.senai.br/)
+- 🎓 Formado em Técnico em Vestuário - (2022 - 2023) - [Senai](https://textil.sp.senai.br/)
 - 🔭 Back-End Java e DevOps - (01/08/2022 - 22/09/2022) - [If black, then code](https://ifblackthencode.corporate.gama.academy/) da [Gama Academy](https://gama.academy/) em parceria com a [IBM](https://www.ibm.com/br-pt).
 
 
