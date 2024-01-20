@@ -22,26 +22,28 @@
 </br>
 
 ## 📈 Métricas no :octocat: Github:
-</br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=diegomouraoficial&label=Profile%20views&color=0e75b6&style=flat" alt="diegomouraoficial" /> </p>
+
 </br>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=diegomouraoficial&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />           </td>
-    </tr>   
-  </table>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diegomouraoficial&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="diegomouraoficial"/></p>
+
+</br>
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomouraoficial&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+</br>
+
+<p align="center"><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=diegomouraoficial&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117"/></p>
 
 </br>
 
-<p align="center"> 💡 Sou apaixonado por tecnologia, movido pela curiosidade e incansável na busca pelo aprendizado contínuo. Para mim, o verdadeiro sucesso é ter PAZ! </p>
+<p align="center"> 💡 Sou apaixonado por tecnologia, movido pela curiosidade e incansável na busca pelo aprendizado contínuo. Para mim, o verdadeiro sucesso é ter PAZ!</p>
+
+</br>
+
+
 
 
 
